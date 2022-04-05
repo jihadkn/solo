@@ -1,2 +1,2 @@
-# solo
+# etc-core-solo
  
